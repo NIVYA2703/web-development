@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewreport" content="width=device-width, initial-scale=1.0">
+    <title> INSERTING TABLE </title>
+</head>
+<body>
+    <table border="2">
+        <tr>
+        <th style="text-align: center;" > new employee record </th>
+        </tr>
+        <th> Name </th>
+        <th colspan="2"> Jobs</th>
+        <th> Working Experience</th>
+        <tr>
+            <td> John</td>
+            <td> software engineer </td>
+            <td>data analyst</td>
+            <td rowspan = "2"> 5 years</td>
+        </tr>
+        <tr>
+            <td> Ale</td>
+            <td colspan="2"> Senior Web Developer</td>
+        </tr>
+        <tr>
+            <td> Jack</td>
+            <td> junior tech writer</td>
+            <td> blogger </td>
+            <td> 6 months </td>
+        </tr>
+    </table>
+</body>
+</html>
