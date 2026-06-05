@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="view report" content="width=device-width,initial-scale=1.0">
+        <title> simple web page </title>
+    </head>
+    <body bgcolor="orange">
+        <h1> A VERY SIMPLE HTML PAGE </h1>
+        <p> web pages are written in a language called <u> HTML </u>. Ordinary text is written as ordinary text,but when we need links,headlines,lists.
+            <ul>
+                <li><em> emphasized words,</em> or</li>
+                <li><b> boldface text </b></li>
+            </ul>
+            we need to embed the text inside HTML tags. We can also insert GIF or PNG images,taken from other internet sites,if desired.</p>
+        <hr>
+        <h2> <b> <font color="grey"> [ </font> <font color="white">simula</font> research laboratory <font color="grey"> ] </font> </b> </h2>
+    </body>
+    </html>
